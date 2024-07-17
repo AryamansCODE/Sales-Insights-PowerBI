@@ -6,6 +6,8 @@ This project involves the analysis of sales data with up to 150,000 rows using a
 
 The objective of this project is to perform an in-depth analysis of a large sales dataset. The project uses MySQL to store and query the data, and PowerBI to create interactive visualizations and dashboards.
 
+# ||Screenshots of the PowerBI report are included for a quick preview of my work ||
+
 ## Features
 
 - Data storage and querying using MySQL
@@ -21,6 +23,7 @@ The objective of this project is to perform an in-depth analysis of a large sale
 
 - `db_dump_version_2.sql`: The SQL database file used in PowerBI.
 - `Final Dashboard.pbix`: The PowerBI dashboard file with complete analysis.
+- Screenshots of the dashboard named with its use case.
 
 ## Usage
 
