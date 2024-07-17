@@ -27,4 +27,4 @@ The objective of this project is to perform an in-depth analysis of a large sale
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please contact aryamanmalik04@gmail.com .
